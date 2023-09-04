@@ -1,0 +1,31 @@
+#bulb1,
+#bulb2,
+#bulb3 {
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    border: 2px solid #000000;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 130px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: 2px solid #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-left: 660px;
+}
+
+button:hover {
+    background-color: #27f4ff;
+    font-weight: 80px;
+    color: black;
+    border: 2px solid #000;
+}
+
